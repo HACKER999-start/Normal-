@@ -4,3 +4,4 @@ Img:https://github.com/HACKER999-start/Normal-/blob/main/image3.jpg;Details:http
 Img:https://github.com/HACKER999-start/Normal-/blob/main/image4.jpg;Details:https://github.com/HACKER999-start/Normal-/blob/main/A4.txt}
 Img:https://github.com/HACKER999-start/Normal-/blob/main/image5.jpg;Details:https://github.com/HACKER999-start/Normal-/blob/main/A5.txt}
 Img:https://github.com/HACKER999-start/Normal-/blob/main/image6.png;Details:https://github.com/HACKER999-start/Normal-/blob/main/A6.txt}
+Img:https://github.com/HACKER999-start/Normal-/blob/main/image7.png;Details:https://github.com/HACKER999-start/Normal-/blob/main/A7.txt}
