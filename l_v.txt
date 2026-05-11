@@ -1,5 +1,1 @@
-{Img:https://github.com/HACKER999-start/Normal-/blob/main/IMG-20260506-WA0029.jpg;
-Title:Oman Job Vacancy 2026 | Free Food + Employment Visa | Client Interview 26 March;
-U_date:2026-05-06;
-Time:19:46:00;
-Details:https://github.com/HACKER999-start/Normal-/blob/main/h3.txt}
+{Img:https://raw.githubusercontent.com/HACKER999-start/Normal-/main/IMG-20260506-WA0029.jpg;Title:Oman Job Vacancy 2026 | Free Food + Employment Visa | Client Interview 26 Marchh;Posts:Check Details;U_date:2026-05-06;Time:Recently;Details:https://raw.githubusercontent.com/HACKER999-start/Normal-/main/h3.txt
