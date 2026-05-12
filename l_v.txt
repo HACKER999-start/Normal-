@@ -1,1 +1,1 @@
-{Img:https://raw.githubusercontent.com/HACKER999-start/Normal-/main/images/vacancy_1778470790503.jpg;Title:hii;Posts:okay;U_date:2026-05-11;Time:Recently;Details:https://raw.githubusercontent.com/HACKER999-start/Normal-/main/details/detail_1778467477943.txt}
+{Img:https://raw.githubusercontent.com/HACKER999-start/Normal-/main/images/vacancy_1778470790503.jpg;Title:hii;U_date:2026-05-11;Time:10:09:60;Details:https://raw.githubusercontent.com/HACKER999-start/Normal-/main/details/detail_1778467477943.txt}
